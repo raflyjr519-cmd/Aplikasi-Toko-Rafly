@@ -27,7 +27,7 @@ Aplikasi ini memiliki tiga halaman, yaitu Daftar Produk, Form Tambah Produk, dan
 - FXML
 
 ## Tampilan Aplikasi
-<img width="1920" height="1080" alt="image" src="[https://github.com/user-attachments/assets/ea589335-112e-498e-a37e-96551b953143](https://github.com/raflyjr519-cmd/Aplikasi-Toko-Rafly/blob/b795edc71edf21db9484853efae0ff191df61c6e/Screenshot%20(34).png)" />
+<img width="1920" height="1080" alt="image" src="https://github.com/raflyjr519-cmd/Aplikasi-Toko-Rafly/blob/193ed1acdd33bd158fcb4485ede7992cd8da17be/Screenshot%20(34).png" />
 
 
 ## Aturan Validasi
